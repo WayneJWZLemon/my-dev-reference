@@ -7,3 +7,8 @@ A repo consists of interesting and helpful tools and tips for development.
 
 ## Unity Related
 * Unity XR tutorial series by [ValemVR](https://www.youtube.com/ValemVR)
+
+## CS Reference
+* [GeeksforGeeks - A Computer Science Portal for Geeks](https://www.geeksforgeeks.org/)
+* [Programiz - learn programming built by programmers for programmers](https://www.programiz.com/)
+* [W3Schools Online Web Tutorials](https://www.w3schools.com/)
