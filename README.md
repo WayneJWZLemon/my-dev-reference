@@ -12,3 +12,13 @@ A repo consists of interesting and helpful tools and tips for development.
 * [GeeksforGeeks - A Computer Science Portal for Geeks](https://www.geeksforgeeks.org/)
 * [Programiz - learn programming built by programmers for programmers](https://www.programiz.com/)
 * [W3Schools Online Web Tutorials](https://www.w3schools.com/)
+
+## Data Science
+* [Kaggle - Machine Learning and Data Science Community - Competition - Dataset - Free TPU Quota](https://www.kaggle.com/)
+* [Huggin Face - The AI community building the future](https://huggingface.co/)
+* [Machine learning is taught by academics, for academics.](https://machinelearningmastery.com/)
+* [Elite Data Science](https://elitedatascience.com/)
+* [KDNuggets](https://www.kdnuggets.com/)
+
+## Monitoring
+* [UptimeRobot - The world's leading uptime monitoring service](https://uptimerobot.com/)
