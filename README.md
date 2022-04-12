@@ -14,6 +14,10 @@ A repo consists of interesting and helpful tools and tips for development.
 * [Programiz - learn programming built by programmers for programmers](https://www.programiz.com/)
 * [W3Schools Online Web Tutorials](https://www.w3schools.com/)
 
+## Data Structures and Algorithms
+* [Visualising data structures and algorithms through animation](https://visualgo.net/en)
+* [PepCoding: Learn data structures and algorithms through courses with questions (with each question accompanied with an editor to write and submit your code)](https://www.pepcoding.com/resources/)
+
 ## Data Science
 * [Kaggle - Machine Learning and Data Science Community - Competition - Dataset - Free TPU Quota](https://www.kaggle.com/)
 * [Huggin Face - The AI community building the future](https://huggingface.co/)
