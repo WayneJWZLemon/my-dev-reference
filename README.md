@@ -6,6 +6,9 @@ A repo consists of interesting and helpful tools and tips for development.
 * [Programiz - learn programming built by programmers for programmers](https://www.programiz.com/)
 * [W3Schools Online Web Tutorials](https://www.w3schools.com/)
 
+#### Regular Expression
+* [RegExr is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).](https://regexr.com/)
+
 ## Data Science
 * [Kaggle - Machine Learning and Data Science Community - Competition - Dataset - Free TPU Quota](https://www.kaggle.com/)
 * [Huggin Face - The AI community building the future](https://huggingface.co/)
