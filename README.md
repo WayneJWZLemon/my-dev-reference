@@ -15,6 +15,7 @@ A repo consists of interesting and helpful tools and tips for development.
 * [Machine learning is taught by academics, for academics.](https://machinelearningmastery.com/)
 * [Elite Data Science](https://elitedatascience.com/)
 * [KDNuggets](https://www.kdnuggets.com/)
+* [OpenAI](https://openai.com/)
 
 ## Data Structures and Algorithms
 * [Visualising data structures and algorithms through animation](https://visualgo.net/en)
