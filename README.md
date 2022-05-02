@@ -40,7 +40,9 @@ A repo consists of interesting and helpful tools and tips for development.
 * Unity XR tutorial series by [ValemVR](https://www.youtube.com/ValemVR)
 * [Unity Native Camera plugin by yasirkula](https://github.com/yasirkula/UnityNativeCamera) and [Unity Native Gallery plugin by yasirkula](https://github.com/yasirkula/UnityNativeGallery). These two plugins are free to use as of the date I typed this README, they allow you to have direct access to the iOS and Android native camera app and the gallery/photo app on the mobile system. If you are making a mobile app with Unity and want to incorporate some sorts of camera actions to take photos or videos, these two plugins will become handy.
 
-
+## Web Development
+* [Browse 300.000+ SVG Vectors and Icons](https://www.svgrepo.com/)
+* [The Odin Project, learn web development at your own pace for free, completely open source.](https://www.theodinproject.com/)
 
 
 
