@@ -8,6 +8,7 @@ A repo consists of interesting and helpful tools and tips for development.
 
 #### Regular Expression
 * [RegExr is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).](https://regexr.com/)
+* [Rexegg](https://www.rexegg.com/) contains tutorials for using regular expressions in various programming languages and additional resources such as a regex cheat sheet and commonly used regex patterns.
 
 ## Data Science
 * [Kaggle - Machine Learning and Data Science Community - Competition - Dataset - Free TPU Quota](https://www.kaggle.com/)
