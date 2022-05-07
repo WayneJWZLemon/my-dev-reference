@@ -26,6 +26,10 @@ A repo consists of interesting and helpful tools and tips for development.
 * How to write a nicely formatted README on GitHub with this cheatsheet: [click here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * How to integrate Discord bot with GitHub to receive updates: [click here](https://gist.github.com/jagrosh/5b1761213e33fc5b54ec7f6379034a22)
 
+## Hosting
+* [Heroku](https://www.heroku.com/) is a container-based cloud Platform as a Service (PaaS). Developers use Heroku to deploy, manage, and scale modern apps.
+* [Hostinger](https://www.hostinger.com/) is a web hosting provider.
+
 ## Job Preparation & Coding Interview
 * [Behavior interview questions and the tips to answer them](https://in.indeed.com/career-advice/interviewing/behavioral-interview-questions)
 * [LeetCode](https://leetcode.com/)
