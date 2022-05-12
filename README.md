@@ -21,6 +21,7 @@ A repo consists of interesting and helpful tools and tips for development.
 ## Data Structures and Algorithms
 * [Visualising data structures and algorithms through animation](https://visualgo.net/en)
 * [PepCoding: Learn data structures and algorithms through courses with questions (with each question accompanied with an editor to write and submit your code)](https://www.pepcoding.com/resources/)
+* [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) by University of San Francisco Computer Science Department
 
 ## GitHub Related
 * How to write a nicely formatted README on GitHub with this cheatsheet: [click here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
