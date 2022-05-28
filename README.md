@@ -37,6 +37,8 @@ A repo consists of interesting and helpful tools and tips for development.
 * [HackerRank](https://www.hackerrank.com/)
 * [TopCoder](https://www.topcoder.com/)
 * [CodeSignal](https://codesignal.com/)
+* [Google Tech Dev Guide](https://techdevguide.withgoogle.com/)
+* [Career Cup](https://www.careercup.com/)
 
 
 ## Monitoring
