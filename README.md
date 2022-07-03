@@ -1,6 +1,9 @@
 # helpful-dev-source
 A repo consists of interesting and helpful tools and tips for development.
 
+## Benchmark Testing
+* The Computer Language 22.05 [Benchmarks](https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html) Game.
+
 ## CS Reference
 * [GeeksforGeeks - A Computer Science Portal for Geeks](https://www.geeksforgeeks.org/)
 * [Programiz - learn programming built by programmers for programmers](https://www.programiz.com/)
@@ -51,6 +54,8 @@ A repo consists of interesting and helpful tools and tips for development.
 ## Web Development
 * [Browse 300.000+ SVG Vectors and Icons](https://www.svgrepo.com/)
 * [The Odin Project, learn web development at your own pace for free, completely open source.](https://www.theodinproject.com/)
+* [DevDocs](https://devdocs.io/) combines multiple API documentations in a fast, organized, and searchable interface.
+* [Style Directory](https://stylestage.dev/styles/): A modern CSS showcase styled by community contributions.
 
 
 
