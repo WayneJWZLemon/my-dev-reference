@@ -31,8 +31,13 @@ A repo consists of interesting and helpful tools and tips for development.
 * How to integrate Discord bot with GitHub to receive updates: [click here](https://gist.github.com/jagrosh/5b1761213e33fc5b54ec7f6379034a22)
 
 ## Hosting
-* [Heroku](https://www.heroku.com/) is a container-based cloud Platform as a Service (PaaS). Developers use Heroku to deploy, manage, and scale modern apps.
 * [Hostinger](https://www.hostinger.com/) is a web hosting provider.
+* [Heroku](https://www.heroku.com/) is a container-based cloud Platform as a Service (PaaS). Developers use Heroku to deploy, manage, and scale modern apps.
+> **Heroku would terminate their free dyno service Nov 2022, below are three free alternatives to Heroku free dyno.**
+* [Render](https://render.com/)
+* [Railway](https://railway.app/)
+* [Cyclic](https://www.cyclic.sh/)
+
 
 ## Job Preparation & Coding Interview
 * [Behavior interview questions and the tips to answer them](https://in.indeed.com/career-advice/interviewing/behavioral-interview-questions)
